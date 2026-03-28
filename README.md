@@ -8,7 +8,13 @@ I am eager to learn programming, AI, and Machine Learning through practical proj
 ---
 
 ## My Interests
-- Programming: Python, C++, SQL 
+- Programming: Python, C++  
 - AI & Machine Learning: Basics and applications  
-- Web Development: HTML, CSS
+- Web Development: HTML, CSS, JavaScript  
 
+---
+
+## Goals
+- Build small projects to apply my learning  
+- Participate in coding challenges and hackathons  
+- Explore open-source contributions
